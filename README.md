@@ -104,10 +104,10 @@ The folder structure of the original facture dataset
  │   └─masks  ( 69 NPY files)
  
 ...
- ├─P0361
- │   ├─images (198 NPY files)
- │   │
- │   └─masks  (198 NPY files)
+  ├─P0361
+  │   ├─images (198 NPY files)
+  │   │
+  │   └─masks  (198 NPY files)
 
 </pre>
 For simplicity and demonstration, a downscaled 256×256-pixel subset of the ImageMask dataset was generated 
