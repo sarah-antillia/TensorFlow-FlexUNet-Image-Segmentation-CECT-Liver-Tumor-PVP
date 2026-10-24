@@ -102,7 +102,6 @@ The folder structure of the original facture dataset
  │   ├─images ( 69 NPY files)
  │   │
  │   └─masks  ( 69 NPY files)
- 
 ...
   ├─P0361
   │   ├─images (198 NPY files)
